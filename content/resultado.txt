@@ -1,0 +1,1 @@
+Here's the result : Hi this is first file text, Hi this is second file, however, it doesn't like to be named the second one, instead of that you cn call it A file, Superfile, or Mau
